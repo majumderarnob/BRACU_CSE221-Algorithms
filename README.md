@@ -1,4 +1,4 @@
-These are the Lab Assignment files of Brac University's Computer Science & Engineering departmental core course, CSE221 known as Algorithms. These Lab assignments are given during FAll'2021 Semester for the course work.
+These are my Lab Assignment files with solution of Brac University's Computer Science & Engineering departmental core course CSE221 known as Algorithms. These Lab assignments are given during FAll'2021 Semester for the course work.
 
 Topic List: <b> \
 Lab 1 - Time Complexity <br/>
