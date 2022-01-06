@@ -1,1 +1,1 @@
-# BRACU_CSE221-Algorithms
+These are the Lab Assignment files of Brac University's Computer Science & Engineering departmental core course, CSE221 known as Algorithms. These Lab assignments are given during FAll'2021 Semester for the course work.
